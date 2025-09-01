@@ -1,4 +1,4 @@
-# Facebook Anonymous Publisher
+.# Facebook Anonymous Publisher
 
 A real-time anonymous publishing application for Facebook pages.
 
