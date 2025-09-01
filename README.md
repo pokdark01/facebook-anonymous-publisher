@@ -1,4 +1,4 @@
-.# Facebook Anonymous Publisher
+eae099bc97c7693b5c5068f7e5cb38ad2870c7b9.# Facebook Anonymous Publisher
 
 A real-time anonymous publishing application for Facebook pages.
 
